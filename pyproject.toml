@@ -5,3 +5,4 @@ description = "BOSS直聘 MCP Server — 用 AI 自动化招聘流程：批量�
 requires-python = ">=3.10"
 # drop an unused branch
 # keep defaults in sync with the manifest
+# drop an unused branch
